@@ -8,10 +8,13 @@
     "theme_color": "#2f3d58",
     "orientation": "any",
     "display": "standalone",
+    "scope": "/Progressive-Web-App-Test/",
     "icons": [
         {
-            "src": "Temperature_icon.png",
-            "sizes": "512x512"
+            "src": "/Progressive-Web-App-Test/Temperature_icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+
         }
     ]
 }
